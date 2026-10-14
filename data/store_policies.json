@@ -1,0 +1,30 @@
+[
+  {
+    "id": "POLICY-RET-01",
+    "topic": "Returns and Money-Back Guarantee",
+    "summary": "30-day satisfaction guarantee on all opened and unopened skincare products.",
+    "content": "We offer a 30-day money-back guarantee. If you experience an adverse skin reaction or are unsatisfied with your routine results, you may initiate a return within 30 days of delivery. Opened products with over 50% content remaining receive a full refund minus a $5 processing fee.",
+    "citation_tag": "POL-RET-30DAY"
+  },
+  {
+    "id": "POLICY-BND-02",
+    "topic": "Dynamic Bundle Discounts and AOV Incentives",
+    "summary": "Automatic tiered discounts when bundling 2, 3, or 4 complementary regimen products.",
+    "content": "Customers receive an instant 10% discount when purchasing any 2 routine steps (e.g. Cleanser + Serum), 15% discount when purchasing 3 steps (Cleanser + Serum + Moisturizer), and 20% discount on 4-step complete regimens (including SPF). Discounts apply automatically at checkout and stack with free shipping over $50.",
+    "citation_tag": "POL-BUNDLE-DISC"
+  },
+  {
+    "id": "POLICY-SHP-03",
+    "topic": "Shipping and Expedited Delivery",
+    "summary": "Standard shipping is free on orders above $50. 2-day priority available for $9.99.",
+    "content": "Orders placed before 2:00 PM EST ship the same business day. Standard shipping takes 3-5 business days across the continental US and is free for orders over $50. Temperature-controlled packaging is used during summer months to protect active serums like Retinoids and Vitamin C.",
+    "citation_tag": "POL-SHP-TERMS"
+  },
+  {
+    "id": "POLICY-ALL-04",
+    "topic": "Ingredient Safety, Allergens, and Clinical Protocol",
+    "summary": "100% cruelty-free, fragrance-free options, and strict dermatological contraindication alerts.",
+    "content": "All formulations are tested under dermatological control. We strictly warn against combining strong active exfoliants (AHA/BHA) with Retinoids in the same PM routine to prevent moisture barrier breakdown. Vitamin C should not be layered directly with Copper Tripeptides. Patch testing is recommended 24 hours before initial use.",
+    "citation_tag": "POL-ALLERGEN-SAFETY"
+  }
+]
